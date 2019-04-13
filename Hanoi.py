@@ -1,4 +1,4 @@
-#Python Program for the Game Tower of Hanoi 
+#Python Program for the Game Tower of Hanoi.
 #Author --> Shivam Yadav
 def Tower(n , source, dest, extra): 
     if n == 1: 
